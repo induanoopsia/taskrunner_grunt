@@ -3,4 +3,4 @@
 		var display = document.getElementById("display");
 		display.innerText = "Hello";
 	};
-}();
+}());
