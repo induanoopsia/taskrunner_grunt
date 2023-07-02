@@ -1,6 +1,6 @@
-function reply_click(clickit){
+(function(){
 	document.getElementById("clickit").onclick = function(){
 		var display = document.getElementById("display");
 		display.innerText = "Hello";
 	};
-}
+}());
