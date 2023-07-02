@@ -4,7 +4,6 @@
   "main": "main.js",
   "scripts": {
            "test": "node node_modules/grunt-cli/bin/grunt test" 
-#"test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "induanoop",
   "license": "ISC",
