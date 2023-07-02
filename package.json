@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "test": "node index.html"
+    "test": "node main.js"
        },
   "author": "induanoop",
   "license": "ISC",
